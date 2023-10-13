@@ -4,7 +4,7 @@
   "description": "",
   "main": "sampleSource.js",
   "scripts": {
-    "exec": "jscodeshift -t ./transformer.js sampleSource.js",
+    "exec": "jscodeshift -t ./transformer.js sampleSource.jsx",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
